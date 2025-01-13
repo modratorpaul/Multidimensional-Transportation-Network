@@ -13,3 +13,5 @@ O
 contracts/safety-protocols.clar,0/6/0662202a25accfc8a576534216c62ba01c2346d4
 N
 tests/safety-protocols.test.ts,a/6/a6ba9f00506f6349e2742b6d0c9cad1bf2fbd9ae
+R
+"contracts/quantum-pathfinding.clar,8/e/8efb3dffed9983b876b6e4860b24ff6cab6f183b
