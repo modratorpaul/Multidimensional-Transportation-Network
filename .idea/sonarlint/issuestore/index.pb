@@ -7,3 +7,5 @@ U
 %tests/multidimensional-routes.test.ts,4/f/4feea4513594fd1e3bcb7f354490e99ce8eae803
 N
 contracts/vehicle-designs.clar,3/b/3b908bd66c1670c8be3e402a1c655bfb4a94581e
+M
+tests/vehicle-designs.test.ts,8/d/8dc0badf729be2e8e2a862f6149d62b7241fa804
