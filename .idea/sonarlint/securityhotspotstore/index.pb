@@ -15,3 +15,5 @@ N
 tests/safety-protocols.test.ts,a/6/a6ba9f00506f6349e2742b6d0c9cad1bf2fbd9ae
 R
 "contracts/quantum-pathfinding.clar,8/e/8efb3dffed9983b876b6e4860b24ff6cab6f183b
+Q
+!tests/quantum-pathfinding.test.ts,4/f/4f6bee749d424dd481343ad22eeee2fb45d9ab1b
