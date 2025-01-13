@@ -11,3 +11,5 @@ M
 tests/vehicle-designs.test.ts,8/d/8dc0badf729be2e8e2a862f6149d62b7241fa804
 O
 contracts/safety-protocols.clar,0/6/0662202a25accfc8a576534216c62ba01c2346d4
+N
+tests/safety-protocols.test.ts,a/6/a6ba9f00506f6349e2742b6d0c9cad1bf2fbd9ae
