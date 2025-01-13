@@ -9,3 +9,5 @@ N
 contracts/vehicle-designs.clar,3/b/3b908bd66c1670c8be3e402a1c655bfb4a94581e
 M
 tests/vehicle-designs.test.ts,8/d/8dc0badf729be2e8e2a862f6149d62b7241fa804
+O
+contracts/safety-protocols.clar,0/6/0662202a25accfc8a576534216c62ba01c2346d4

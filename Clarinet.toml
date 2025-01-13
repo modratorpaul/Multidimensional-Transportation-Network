@@ -10,6 +10,11 @@ path = 'contracts/multidimensional-routes.clar'
 clarity_version = 2
 epoch = 2.5
 
+[contracts.safety-protocols]
+path = 'contracts/safety-protocols.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.vehicle-designs]
 path = 'contracts/vehicle-designs.clar'
 clarity_version = 2
